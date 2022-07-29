@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Welcome to this Jekyll test site!
+This website has been created for training purposes.
